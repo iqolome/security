@@ -6,7 +6,6 @@
 		<groupId>com.ginger.sso</groupId>
 		<artifactId>sso-demo</artifactId>
 		<version>1.0.0</version>
-		<relativePath>../sso-demo</relativePath>
 	</parent>
 	<artifactId>sso-server</artifactId>
 

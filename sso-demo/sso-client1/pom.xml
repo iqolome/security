@@ -6,10 +6,8 @@
 		<groupId>com.ginger.sso</groupId>
 		<artifactId>sso-demo</artifactId>
 		<version>1.0.0</version>
-		<relativePath>../sso-demo</relativePath>
 	</parent>
-	<artifactId>sso-client2</artifactId>
-
+	<artifactId>sso-client1</artifactId>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -28,5 +26,4 @@
 			<artifactId>spring-security-jwt</artifactId>
 		</dependency>
 	</dependencies>
-
 </project>
